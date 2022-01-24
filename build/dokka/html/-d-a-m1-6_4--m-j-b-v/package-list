@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/index.html
+$dokka.location://main/#/PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/main.html
+$dokka.location:/CatalogoLibrosXML.Companion///PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/-companion/index.html
+$dokka.location:/CatalogoLibrosXML.Companion/l/#/PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/-companion/l.html
+$dokka.location:/CatalogoLibrosXML///PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/index.html
+$dokka.location:/CatalogoLibrosXML/CatalogoLibrosXML/#kotlin.String/PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/-catalogo-libros-x-m-l.html
+$dokka.location:/CatalogoLibrosXML/existeLibro/#kotlin.String/PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/existe-libro.html
+$dokka.location:/CatalogoLibrosXML/i/#kotlin.String/PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/i.html
+$dokka.location:/CatalogoLibrosXML/infoLibro/#kotlin.String/PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/info-libro.html
+$dokka.location:/CatalogoLibrosXML/obtenerAtributosEnMapKV/#org.w3c.dom.Element/PointingToDeclaration/-d-a-m1-6_4--m-j-b-v/[root]/-catalogo-libros-x-m-l/obtener-atributos-en-map-k-v.html
+
+

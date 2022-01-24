@@ -1,0 +1,1 @@
+C:\Users\usuariot\IdeaProjects\DAM1-6_4-MJBV\build\classes\kotlin\main\CatalogoLibrosXML$Companion.class;C:\Users\usuariot\IdeaProjects\DAM1-6_4-MJBV\build\classes\kotlin\main\CatalogoLibrosXML$i$1.class;C:\Users\usuariot\IdeaProjects\DAM1-6_4-MJBV\build\classes\kotlin\main\CatalogoLibrosXML.class;C:\Users\usuariot\IdeaProjects\DAM1-6_4-MJBV\build\classes\kotlin\main\MainKt.class
