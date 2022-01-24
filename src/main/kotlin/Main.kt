@@ -43,10 +43,10 @@ class CatalogoLibrosXML(private val cargador: String) {
         return mMap
     }
 
-    /*
+    /**
     *
     * @return  Devuelve true si existe, `false` en caso contrario.
-    * */
+    * **/
     fun existeLibro(idLibro: String): Boolean {
         var existe: Boolean
         if (idLibro.isNullOrBlank())
@@ -67,10 +67,10 @@ class CatalogoLibrosXML(private val cargador: String) {
         return existe
     }
 
-    /*
+    /**
       *
       * @return  Devuelve true si existe, `false` en caso contrario.
-      * */
+      * **/
     fun infoLibro(idLibro: String): Map<String, Any> {
         var m = mutableMapOf<String, Any>()
         if (!idLibro.isNullOrBlank())
@@ -115,3 +115,13 @@ fun main() {
     cat.i(cat.existeLibro(id).toString())
     cat.i(cat.infoLibro(id).toString())
 }
+/**
+Implementar una clase `CatalogoLibrosXML` con sus métodos y propiedades. Usa los modificadores de acceso adecuado según lo creas conveniente e intenta separar la funcionalidad en métodos que tengan sentido para la clase y que hagan una única cosa.
+### Propiedades
+- Las que necesites.
+### Métodos
+- `constructor(cargador:String)`: Debe abortar si el fichero no existe o es incorrecto.
+- `existeLibro(idLibro:String): Boolean`: Devuelve true si existe, `false` en caso contrario.
+- `infoLibro(idLibro:String): Map<String,Any>`: Devuelve un `Map` con los atributos y valores del libro. Devolverá
+  un `Map` vacío en caso contrario.
+ **/
